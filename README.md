@@ -1,12 +1,3 @@
-<div align="center">
-
-![Plant Disease Detection System](images/banner.png)
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Random%20Forest-F7931E?logo=scikitlearn&logoColor=white)
-![Level](https://img.shields.io/badge/Level-Beginner%20Friendly-2ea44f)
-
 **Spot the signs. Let machine learning help you decide.**
 
 </div>
