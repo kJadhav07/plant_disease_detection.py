@@ -150,15 +150,7 @@ Plant Analysis Result:
 - 📉 Matplotlib
 - 🤖 Scikit-learn (Random Forest, train/test split, accuracy)
 
----
 
-## ⚠️ Limitations
-
-- 📸 Accuracy on a dataset does **not** guarantee the same accuracy on your own photos. Lighting, background and camera quality matter a lot.
-- 🍃 The model only knows the diseases and plants in the dataset you train it with.
-- 🔬 This tool is for **learning and screening only**. For real crop problems, consult a plant pathologist or an agricultural extension office.
-
----
 
 ## 🔮 Ideas for Improvement
 
