@@ -40,7 +40,6 @@ plant-disease-detection/
 │
 ├── plant_disease_detection.py   # 🧠 Main program
 ├── README.md                    # 📘 Documentation
-├── images/                      # 🖼️ Pictures used in this README
 │
 ├── dataset/                     # 🌿 Labelled leaf images (you add these)
 │   ├── healthy/
